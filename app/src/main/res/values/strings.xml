@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SportsAssignmentTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="salary">Salary</string>
+    <string name="designation">Designation</string>
+    <string name="submit_salary">submit salary</string>
+    <string name="show_salary">show salary</string>
+    <string name="update_salary">update salary</string>
+</resources>
